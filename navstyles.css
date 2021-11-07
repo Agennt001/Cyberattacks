@@ -3,10 +3,6 @@
     padding: 0px;
     box-sizing: border-box;
 }
-b{
-    background-color: black;
-    color:rgb(226, 226, 226);
-}
 nav {
     display: flex;
     flex-direction: column;
