@@ -1,0 +1,112 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+b{
+    background-color: black;
+    color:rgb(226, 226, 226);
+}
+nav {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 100vh;
+    bottom: 0vh;
+    background-color: #c800c8;    
+    position:fixed;
+    left: 0px;
+    width: 18%;
+}
+li{
+    cursor:pointer;
+}
+.pic{
+    cursor:auto;
+}
+.nav-bar{
+    text-align: center;
+    text-decoration: underline;
+    display: flex;
+    color: rgb(226, 226, 226);
+    justify-content: space-around;
+    list-style: none;
+    left: 0px;
+    height: 100%;
+    bottom: 00%;
+    flex-direction: column;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+img{
+    height: 130px;
+    width: 150px;
+    border-radius: 50px;
+    border: solid 5px;
+    cursor:auto;
+    border-color: rgb(226, 226, 226);
+}
+h1{
+    margin-left: 50%;
+    font-weight: bold;
+    text-decoration: underline;
+}
+h3{
+    position:absolute;
+    margin-left: 20%;
+    text-decoration: underline;
+}
+h4{
+    position:absolute;
+    margin-left: 35%;
+    text-decoration: underline;
+}
+.three{
+    height: 40px;
+    width: 80px;
+    position: absolute;
+    margin-left: 30%;
+    left:350px;
+}
+.two{
+    height: 40px;
+    width: 80px;
+    position: absolute;
+    margin-left: 25%;
+    left: 300px;  
+}
+.one{
+    height: 40px;
+    width: 80px;
+    position: absolute;
+    margin-left: 35%;
+    left: 400px;  
+}
+button:hover{
+    cursor:pointer;
+}
+.p1{
+    position: absolute;
+    margin-left: 35%;
+    font-family: sans-serif;
+}
+p{
+    position:absolute;
+    margin-left: 20%;
+    margin-right: 10%;
+    font-family: sans-serif;
+}
+.list{
+    position:absolute;
+    margin-left: 20%;
+    margin-right: 10%;
+    font-family: sans-serif;
+}
+.source{
+    height:30px;
+    width:90px;
+    position: absolute;
+    margin-left: 20%;
+    left:0%;
+}
