@@ -9,11 +9,11 @@ Themenfahrplan:
 Hier wollen wir nochmal unseren Vorgang, wie wir unsere Webseite aus dem Boden gestampft haben, erklären. Zuerst haben wir uns 5 Themen
 augesucht über die wir schreiben wollten und haben sie dann auf uns Drei aufgeteilt.
 Wir hatten als 5 Themen: 
--efinition Cyber-Angriffe (Sharan) 
--Die Gefahren von Cyber-Angriffen (Parsa)
--Die Absichten hinter Cyber-Angriffen (Kilian)
--Ein Cyber-Angriff geschichtlich (Sharan)
--Präention gegen Cyber-Angriffe (Kilian)
+Definition Cyber-Angriffe (Sharan) 
+Die Gefahren von Cyber-Angriffen (Parsa)
+Die Absichten hinter Cyber-Angriffen (Kilian)
+Ein Cyber-Angriff geschichtlich (Sharan)
+Präention gegen Cyber-Angriffe (Kilian)
 
 Zudem hatten wir uns auch noch spezielle Ideen ausgedacht:
 
