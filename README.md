@@ -28,7 +28,7 @@ Die Website selbst wurde größtenteils von Kilian und Parsa programmiert. Kilia
 angesehen, damit in der Website eine Umfrage eingebaut bekommen konnte. Parsa hat sich auf das Layout und Design der Website fokussiert und ein
 animiertes Hintergrund gebastelt.
 
-Und das wars im Großen und ganzen mit unserem Themenfahrplan + Einblicke in unser Vorgehen zu diese Projektarbeit.
+Und das wars im Großen und Ganzen mit unserem Themenfahrplan + Einblicke in unser Vorgehen zu dieser Projektarbeit.
 
 
 Nun wünschen wir Ihnen viel Spaß beim Bestaunen unserer Webseite :D
