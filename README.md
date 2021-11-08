@@ -1,6 +1,6 @@
 Willkommen zu unseren Informatik-Projekt Cyber-Angriffe!
 
-Das hier ist unsere kleine Einführung auf unsere Webseite, hier auf Github. Ganz oben im Reiter finden sie all die Dateien, nach den sie Suchen.<br>
+Das hier ist unsere kleine Einführung auf unsere Webseite, hier auf Github. Ganz oben im Reiter finden sie all die Dateien, nach denen Sie Suchen.<br>
 Zu finden sollte dort die HTML, die CSS, ein Video, ein paar Bilder und noch ein paar kleine Animationen sein. Dort sollten Sie dann auch in der <br>
 Lage sein all diese Dateen herunterzuladen.<br>
 
