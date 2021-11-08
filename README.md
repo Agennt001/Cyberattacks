@@ -26,7 +26,7 @@ die Idee mit den Hintergründen(,das Parsa und Kilian gemacht haben). Die Idee m
 schaffen können, da die Idee einfach noch ein wenig zu komplex in der Ausführung geworden ist und uns die Zeit ausging.
 Die Website selbst wurde größtenteils von Kilian und Parsa programmiert. Kilian hat sich extra zum Programmieren dazu ein wenig JavaScript
 angesehen, damit in der Website eine Umfrage eingebaut bekommen konnte. Parsa hat sich auf das Layout und Design der Website fokussiert und ein
-animiertes Hintergrund gebastelt.
+animiertes Hintergrundbild gebastelt.
 
 Und das wars im Großen und Ganzen mit unserem Themenfahrplan + Einblicke in unser Vorgehen zu dieser Projektarbeit.
 
