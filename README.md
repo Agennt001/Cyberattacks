@@ -6,7 +6,7 @@ Lage sein all diese Dateien herunterzuladen.<br>
 
 Themenfahrplan:
 
-Hier wollen wir nochmal unseren Vorgang, wie wir unsere Webseite aus dem Boden gestampft haben, erklären. Zuerst haben wir uns fünf Themen<br>
+Hier wollen wir nochmal unseren Vorgang, wie wir unsere Webseite aus dem Boden gestampft haben, erklären. Zuerst haben wir uns fünf Themen
 augesucht über die wir schreiben wollten und haben sie dann auf uns drei aufgeteilt.<br>
 Wir hatten als fünf Themen:<br>
 -Definition Cyber-Angriffe (Sharan)<br>
