@@ -9,17 +9,17 @@ Themenfahrplan:
 Hier wollen wir nochmal unseren Vorgang, wie wir unsere Webseite aus dem Boden gestampft haben, erklären. Zuerst haben wir uns 5 Themen<br>
 augesucht über die wir schreiben wollten und haben sie dann auf uns Drei aufgeteilt.<br>
 Wir hatten als 5 Themen:<br>
-Definition Cyber-Angriffe (Sharan)<br>
-Die Gefahren von Cyber-Angriffen (Parsa)<br>
-Die Absichten hinter Cyber-Angriffen (Kilian)<br>
-Ein Cyber-Angriff geschichtlich (Sharan)<br>
-Präention gegen Cyber-Angriffe (Kilian)<br>
+-Definition Cyber-Angriffe (Sharan)<br>
+-Die Gefahren von Cyber-Angriffen (Parsa)<br>
+-Die Absichten hinter Cyber-Angriffen (Kilian)<br>
+-Ein Cyber-Angriff geschichtlich (Sharan)<br>
+-Präention gegen Cyber-Angriffe (Kilian)<br>
 
 Zudem hatten wir uns auch noch spezielle Ideen ausgedacht:
 
--Eine interaktive Webseite zu bauen, die z.B. beim klicken von Bildern oder bstimmten Feldern Animationen abspielen könne
--Ein Video am Anfang der Webseite abzuspielen, welches auf den Inhalt der Webseite einleitet
--Eine Dekoration für die Webseite zu gestalten, wie zum Beispiel Hintergründe und verschiedene Farb-Layouts
+-Eine interaktive Webseite zu bauen, die z.B. beim klicken von Bildern oder bstimmten Feldern Animationen abspielen könne<br>
+-Ein Video am Anfang der Webseite abzuspielen, welches auf den Inhalt der Webseite einleitet<br>
+-Eine Dekoration für die Webseite zu gestalten, wie zum Beispiel Hintergründe und verschiedene Farb-Layouts<br>
 
 Wir konnten von den "speziellen Ideen" dann leider aber nur 2 wirklich durchsetzen. Einmal die Idee mit dem Video ( Das Sharan gemacht hat) und
 die Idee mit den Hintergründen (Das Parsa und Kilian gemacht haben). Die Idee mit einer interaktiven Webseite haben wir nur so teilweise
