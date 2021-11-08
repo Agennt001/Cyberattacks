@@ -6,7 +6,7 @@ Lage sein all diese Dateen herunterzuladen.<br>
 
 Themenfahrplan:
 
-Hier wollen wir nochmal unseren Vorgang, wie wir unsere Webseite aus dem Boden gestampft haben, erklären. Zuerst haben wir uns 5 Themen<br>
+Hier wollen wir nochmal unseren Vorgang, wie wir unsere Website aus dem Boden gestampft haben, erklären. Zuerst haben wir uns 5 Themen<br>
 augesucht über die wir schreiben wollten und haben sie dann auf uns Drei aufgeteilt.<br>
 Wir hatten als 5 Themen:<br>
 -Definition Cyber-Angriffe (Sharan)<br>
@@ -21,12 +21,12 @@ Zudem hatten wir uns auch noch spezielle Ideen ausgedacht:
 -Ein Video am Anfang der Webseite abzuspielen, welches auf den Inhalt der Webseite einleitet<br>
 -Eine Dekoration für die Webseite zu gestalten, wie zum Beispiel Hintergründe und verschiedene Farb-Layouts<br>
 
-Wir konnten von den "speziellen Ideen" dann leider aber nur 2 wirklich durchsetzen. Einmal die Idee mit dem Video ( Das Sharan gemacht hat) und
-die Idee mit den Hintergründen (Das Parsa und Kilian gemacht haben). Die Idee mit einer interaktiven Webseite haben wir nur so teilweise
-schaffen können, da die Idee einfach noch ein wenig zu Komplex in der Ausführung geworden ist und uns die Zeit ausging.
-Die Webseite selbst wurde größtenteils von Kilian programmiert und Parsa. Kilian hat sich extra zum Programmieren dazu ein wenig JavaScript
-angesehen, damit die Webseite eine Umfrage eingebaut bekommen konnte. Parsa hat sich auf das Layout und Design der Webseite fokussiert und 
-animierte Hintergründe gebastelt.
+Wir konnten von den "speziellen Ideen" dann leider aber nur 2 wirklich durchsetzen. Einmal die Idee mit dem Video(,das Sharan gemacht hat) und
+die Idee mit den Hintergründen(,das Parsa und Kilian gemacht haben). Die Idee mit einer interaktiven Website haben wir nur so teilweise
+schaffen können, da die Idee einfach noch ein wenig zu komplex in der Ausführung geworden ist und uns die Zeit ausging.
+Die Website selbst wurde größtenteils von Kilian und Parsa programmiert. Kilian hat sich extra zum Programmieren dazu ein wenig JavaScript
+angesehen, damit in der Website eine Umfrage eingebaut bekommen konnte. Parsa hat sich auf das Layout und Design der Website fokussiert und ein
+animiertes Hintergrund gebastelt.
 
 Und das wars im Großen und ganzen mit unserem Themenfahrplan + Einblicke in unser Vorgehen zu diese Projektarbeit.
 
