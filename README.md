@@ -13,7 +13,7 @@ Wir hatten als fünf Themen:<br>
 -Die Gefahren von Cyber-Angriffen (Parsa)<br>
 -Die Absichten hinter Cyber-Angriffen (Kilian)<br>
 -Ein Cyber-Angriff geschichtlich (Sharan)<br>
--Präention gegen Cyber-Angriffe (Kilian)<br>
+-Prävention gegen Cyber-Angriffe (Kilian)<br>
 
 Zudem hatten wir uns auch noch spezielle Ideen ausgedacht:
 
