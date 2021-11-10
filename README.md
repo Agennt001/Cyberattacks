@@ -19,7 +19,7 @@ Bevor wir überhaupt mit der Website angefangen haben, hat Parsa eine Skizze von
 
 Zudem hatten wir uns auch noch spezielle Ideen ausgedacht:
 
--Eine interaktive Webseite zu bauen, die z.B. beim Klicken von Bildern oder bestimmten Feldern Animationen abspielen kann (Parsa und Kilian)<br>
+-Eine interaktive Website zu bauen, die z.B. beim Klicken von Bildern oder bestimmten Feldern Animationen abspielen kann (Parsa und Kilian)<br>
 -Ein Video am Anfang der Website abzuspielen, welches auf den Inhalt der Webseite einleitet (Sharan)<br>
 -Eine Dekoration für die Website zu gestalten, wie zum Beispiel Hintergründe und verschiedene Farb-Layouts<br>
 
