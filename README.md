@@ -11,7 +11,7 @@ augesucht über die wir schreiben wollten und haben sie dann aufgeteilt. <br><br
 Wir hatten als fünf Themen:<br>
 -Definition Cyber-Angriffe (Sharan)<br>
 -Die Absichten hinter Cyber-Angriffen (Kilian)<br>
--Die Gefahren von Cyber-Angriffen (Parsa)<br>
+-Die Gefahren von Cyber-Angriffen für Unternehmen (Parsa)<br>
 -Prävention gegen Cyber-Angriffe (Kilian)<br>
 -Ein Cyber-Angriff geschichtlich (Sharan)<br>
 
