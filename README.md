@@ -31,4 +31,4 @@ animiertes Hintergrundbild gebastelt.
 Und das wars im Großen und Ganzen mit unserem Themenfahrplan + Einblicke in unser Vorgehen zu dieser Projektarbeit.
 
 
-Nun wünschen wir Ihnen viel Spaß beim Bestaunen unserer Webseite :D
+Nun wünschen wir Ihnen viel Spaß beim Bestaunen unserer Website :D
