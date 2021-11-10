@@ -7,13 +7,13 @@ Lage sein all diese Dateien herunterzuladen.<br>
 Themenfahrplan:
 
 Hier wollen wir nochmal unseren Vorgang, wie wir unsere Webseite aus dem Boden gestampft haben, erklären. Zuerst haben wir uns fünf Themen
-augesucht über die wir schreiben wollten und haben sie dann auf uns drei aufgeteilt.<br><br>
+augesucht über die wir schreiben wollten und haben sie dann aufgeteilt. <br><br>
 Wir hatten als fünf Themen:<br>
 -Definition Cyber-Angriffe (Sharan)<br>
--Die Gefahren von Cyber-Angriffen (Parsa)<br>
 -Die Absichten hinter Cyber-Angriffen (Kilian)<br>
--Ein Cyber-Angriff geschichtlich (Sharan)<br>
+-Die Gefahren von Cyber-Angriffen (Parsa)<br>
 -Prävention gegen Cyber-Angriffe (Kilian)<br>
+-Ein Cyber-Angriff geschichtlich (Sharan)<br>
 
 Bevor wir überhaupt mit der Website angefangen haben, hat Parsa eine Skizze von der Website gemacht, damit wir schonmal eine Grundidee hatten.
 
